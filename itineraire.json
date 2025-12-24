@@ -1,0 +1,80 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🍝",
+  "titre": "Escapade Gourmande et Détente à Bologne",
+  "budget_total": "600€",
+  "duree": "2 jours",
+  "temps_vol": "1h45 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douce Immersion au Cœur de Bologne",
+      "legende": "Après un court vol depuis Paris, installez-vous confortablement et laissez-vous charmer par l'ambiance médiévale de Bologne. Flânez sur la majestueuse Piazza Maggiore, admirez l'architecture et imprégnez-vous de l'atmosphère locale en douceur. Une première journée dédiée à la découverte sans hâte.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🛬 Arrivée à Bologne et transfert:</strong> Atterrissage à l'aéroport Guglielmo Marconi (BLQ) et transfert facile vers le centre-ville en navette ou taxi. Environ 15-20 minutes de trajet.",
+        "<strong>🛏️ Installation à l'hôtel:</strong> Check-in dans votre hôtel 3 étoiles sélectionné pour son confort et sa proximité avec les attractions principales. Prenez le temps de vous rafraîchir.",
+        "<strong>🚶‍♂️ Balade relaxante sur la Piazza Maggiore:</strong> Découvrez le cœur vibrant de Bologne, sa basilique San Petronio et le Palazzo d'Accursio. Profitez de l'ambiance et d'un premier \"gelato\" artisanal."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le Marconi Express est un monorail rapide reliant l'aéroport à la gare centrale de Bologne en 7 minutes, une option pratique et efficace."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🍝",
+      "titre": "Saveurs Locales et Charme des Portiques",
+      "legende": "Cette journée est dédiée à l'exploration des délices culinaires et du patrimoine architectural unique de Bologne. Entre marchés animés et promenades sous les célèbres portiques, vous découvrirez pourquoi la ville est surnommée \"la Grassa\" (la Grosse) et \"la Rossa\" (la Rouge). Une immersion culturelle et gourmande, sans précipitation.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🛍️ Exploration du Quadrilatero:</strong> Plongez dans le quartier historique des marchés, un labyrinthe de ruelles où se côtoient boutiques d'artisans, fromagers et charcutiers. Idéal pour une dégustation matinale.",
+        "<strong>🌳 Détente aux Giardini Margherita:</strong> Profitez d'une pause verdure dans le plus grand parc public de Bologne. Idéal pour une promenade douce ou simplement s'asseoir et observer la vie locale.",
+        "<strong>🍝 Cours de cuisine bolognaise (optionnel):</strong> Pour une expérience immersive et relaxante, participez à un cours pour apprendre à préparer des pâtes fraîches comme les \"tagliatelle al ragù\". Une activité gourmande et mémorable."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce Gourmande",
+          "texte": "Ne quittez pas Bologne sans avoir goûté aux \"tortellini en brodo\" et à la \"mortadella\" locale, des incontournables de la gastronomie émilienne."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Les Portiques",
+          "texte": "Bologne est célèbre pour ses 40 km de portiques, parfaits pour se promener à l'abri du soleil ou de la pluie, et admirer l'architecture."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "216 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 20-30 €/pers (transfert aéroport, bus locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 100-150 €/pers (2 déjeuners, 2 dîners, petits déj, snacks)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 150-200 €/pers (2 nuits en hôtel 3 étoiles)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50-80 €/pers (musées, dégustations, option cours de cuisine)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Juin)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La langue officielle est l'italien. L'anglais est parlé dans les zones touristiques, mais quelques mots d'italien seront appréciés.", "symbole": "🗣️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais ayez un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Bologne est une ville très agréable à explorer à pied. Le réseau de bus est efficace pour les distances plus longues.", "symbole": "🚶‍♀️" },
+    { "titre": "Les températures sont douces au printemps et en automne. Prévoyez des chaussures confortables pour la marche.", "symbole": "☀️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Paris-Bologne", "url": "https://www.kayak.fr/flights/CDG-BLQ/2026-05-22/2026-05-24", "symbole": "🛬" },
+    { "legende": "Office de Tourisme", "titre": "Bologna Welcome", "url": "https://www.bolognawelcome.com/fr/", "symbole": "📘" },
+    { "legende": "Transports locaux", "titre": "Tper (bus de Bologne)", "url": "https://www.tper.it/en", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Bologne", "url": "https://www.accuweather.com/fr/it/bologna/212000/weather-forecast/212000", "symbole": "🌤️" }
+  ]
+}
